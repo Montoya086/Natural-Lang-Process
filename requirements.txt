@@ -2,3 +2,5 @@ nltk
 pandas
 matplotlib
 wordcloud
+notebook
+scikit-learn
